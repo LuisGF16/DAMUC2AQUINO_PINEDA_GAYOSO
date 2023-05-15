@@ -236,6 +236,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:backgroundTint="#e2b142"
+        android:drawableRight="@drawable/baseline_send_24"
         android:text="@string/button_enviar"
         android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
